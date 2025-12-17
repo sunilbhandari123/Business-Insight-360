@@ -12,7 +12,7 @@ The project data files have not been uploaded to this repository in compliance w
 
 ## Contents:
 Please find the sectional links for the project below:
-- [BI 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNjFkYzgwZTItMGEwNi00ZTYyLTk1NTMtZmIyMTFmN2QzNzZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [BI 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjA3NGUxODgtZTAxZi00MzUwLTllMzgtMjhlMDBkMGVlZTM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - [Introduction to AtliQ Hardware](#introduction-to-atliq-hardware)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
@@ -26,7 +26,7 @@ Please find the sectional links for the project below:
 
 ---
 
-## [Business Insights 360 Live Report Link](https://mavenanalytics.io/project/19189)
+## [Business Insights 360 Live Report Link]([https://mavenanalytics.io/project/19189](https://app.powerbi.com/view?r=eyJrIjoiZjA3NGUxODgtZTAxZi00MzUwLTllMzgtMjhlMDBkMGVlZTM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 ---
 
@@ -1072,46 +1072,7 @@ Table Relationships to be setup:
 
 ---
 
-## BI 360 Report Overview:
 
-### I. Home View:
-
-Central navigation hub with easy access to all views, complete with support and information manual.
-
-<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Home%20Page.png" width="100%" height="100%"> </div>
-
-### II. Finance View:
-
-Enhances financial planning and cost control, featuring a P&L Statement, Net Sales Trend and Breakdown by Products/Customers and more.
-
-<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Finance%20View.png" width="100%" height="100%"> </div>
-
-### III. Sales View:
-
-Focuses on boosting sales revenue and tracking customer performance, including Gross Margin % Variance across Customers/Products and more.
-
-<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Sales%20View.png" width="100%" height="100%"> </div>
-<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Sales%20View%20with%20Trend%20.png" width="100%" height="100%"> </div>
-
-### IV. Marketing View:
-
-Elevates brand visibility and evaluates marketing campaign ROI, with insights into Segment Performance, Net Profit % Variance across Regions and more.
-
-<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Market%20View.png" width="100%" height="100%"> </div>
-
-### V. Supply Chain View:
-
-Optimizes inventory management and demand forecasting, featuring trends in Forecast Accuracy and Inventory Stock Risk by Customers/Products.
-
-<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Supply%20Chain%20View.png" width="100%" height="100%"> </div>
-
-### VI. Executive View:
-
-Provides a high-level overview of organizational performance for top AtliQ executives and senior management, showcasing business KPIs, Revenue Contributions by Division/Channel, Top Customers & Products, AtliQ's Market Share Trend and more.
-
-<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Executive%20View.png" width="100%" height="100%"> </div>
-
----
 
 ## Conclusion:
 The Power BI Report project for AtliQ Hardware provided a comprehensive, data-driven analysis across five critical business functions: Finance, Sales, Marketing, Supply Chain, and Executive. By integrating key business metrics such as Net Sales, Gross Margin, COGS, Net Profit % and Forecast Accuracy % the dashboard offers a holistic view of AtliQ's performance.
