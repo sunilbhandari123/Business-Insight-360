@@ -26,7 +26,7 @@ Please find the sectional links for the project below:
 
 ---
 
-## [Business Insights 360 Live Report Link]([https://app.powerbi.com/view?r=eyJrIjoiZjA3NGUxODgtZTAxZi00MzUwLTllMzgtMjhlMDBkMGVlZTM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9])
+## [Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjA3NGUxODgtZTAxZi00MzUwLTllMzgtMjhlMDBkMGVlZTM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
